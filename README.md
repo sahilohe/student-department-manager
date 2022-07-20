@@ -1,2 +1,1 @@
-# student-department-manager
-# student-department-manager
+### this is me learning rust and building anything
